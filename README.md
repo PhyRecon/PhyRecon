@@ -1,4 +1,4 @@
-# PhyRecon
+# PHYRECON: Physically Plausible Neural Scene Reconstruction
 
 Official implementation of the paper *[PHYRECON: Physically Plausible Neural Scene Reconstruction]()*.
 
