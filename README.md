@@ -24,9 +24,9 @@ Code will be released soon.
 
 ```bibtex
 @article{ni2024phyrecon,
-        title={PhyRecon: Physically Plausible Neural Scene Reconstruction}, 
-        author={Junfeng Ni and Yixin Chen and Bohan Jing and Nan Jiang and Bin Wang and Bo Dai and Puhao Li and Yixin Zhu and Song-Chun Zhu and Siyuan Huang},
-        journal={arXiv preprint arXiv:2404.16666},
-        year={2024}
+  title={PhyRecon: Physically Plausible Neural Scene Reconstruction}, 
+  author={Junfeng Ni and Yixin Chen and Bohan Jing and Nan Jiang and Bin Wang and Bo Dai and Puhao Li and Yixin Zhu and Song-Chun Zhu and Siyuan Huang},
+  journal={arXiv preprint arXiv:2404.16666},
+  year={2024}
 }
 ```
