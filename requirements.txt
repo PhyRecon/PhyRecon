@@ -1,0 +1,17 @@
+trimesh==3.23.5
+rtree
+pyhocon
+tqdm
+scikit-image
+matplotlib
+opencv-python
+wandb
+tensorboard
+scipy
+numpy==1.24.3
+plotly
+ninja
+open3d
+taichi==1.6.0
+cachetools
+pyrender

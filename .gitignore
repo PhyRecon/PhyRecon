@@ -1,0 +1,8 @@
+data/
+exps/
+*__pycache__*
+code/tmp_build/
+code/wandb/
+slurm-*.out
+.vscode/
+mycode/
