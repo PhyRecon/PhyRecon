@@ -38,6 +38,7 @@ PhyRecon harnesses both differentiable rendering and differentiable physics simu
 
 ## News
 
+- ![](https://img.shields.io/badge/New!-8A2BE2) [2025-3-20] Our follow-up work, **DP-Recon**, which integrates generative priors into decompositional neural scene reconstruction, is now out! Check it out [here](https://dp-recon.github.io/)!
 - [2025/1/14] Code is released. For more information, please visit our [project page](https://phyrecon.github.io/)!
 - [2025/1/14] Our [Differentiable-Rigid-Body-Simulator](https://github.com/bigai-ai/differentiable-rigid-body-simulator) is open sourced!
 
