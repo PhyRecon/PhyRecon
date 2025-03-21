@@ -199,7 +199,7 @@ Some codes are borrowed from [MonoSDF](https://github.com/autonomousvision/monos
 ```bibtex
 @inproceedings{ni2024phyrecon,
   title={PhyRecon: Physically Plausible Neural Scene Reconstruction}, 
-  author={Junfeng Ni and Yixin Chen and Bohan Jing and Nan Jiang and Bin Wang and Bo Dai and Puhao Li and Yixin Zhu and Song-Chun Zhu and Siyuan Huang},
+  author={Ni, Junfeng and Chen, Yixin and Jing, Bohan and Jiang, Nan and Wang, Bin and Dai, Bo and Li, Puhao and Zhu, Yixin and Zhu, Song-Chun and Huang, Siyuan},
   journal={Advances in Neural Information Processing Systems},
   year={2024}
 }
